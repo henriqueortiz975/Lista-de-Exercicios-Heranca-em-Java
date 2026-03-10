@@ -25,6 +25,11 @@ public class Aluno extends Pessoa{
     public String getMatricula(){
         return matricula;
     }
+    
+    public void getStatus2(){
+        System.out.println("Curso: " + curso);
+        System.out.println("Matricula: " + matricula);
+    }
 
         
     

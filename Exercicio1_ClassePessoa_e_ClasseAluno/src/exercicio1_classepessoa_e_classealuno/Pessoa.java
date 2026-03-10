@@ -24,6 +24,11 @@ public class Pessoa {
     public int getIdade(){
         return idade;
     }
+    
+    public void getStatus1(){
+        System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade);
+    }
 
     
 }
