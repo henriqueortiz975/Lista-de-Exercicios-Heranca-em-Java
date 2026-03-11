@@ -11,6 +11,5 @@ public class Exercicio10_Sistema_de_Biblioteca {
         Revista objR = new Revista("Revista de Engenharia", 32, "SILVA, A. B. Estudos Técnicos");
         objR.exibirDados();
 
-    }
-    
+    } 
 }
